@@ -1,0 +1,1 @@
+Techniques for finding sums or totals of different elements, typically [[Discrete]] elements(at least, given the context of this course).

@@ -1,0 +1,2 @@
+
+An algorithm named for its inventor/discoverer Anatoly Karatsuba. It uses a [[Divide and Conquer]] strategy to perform multiplication of two $n$-digit numbers in at most $n^{log_2(3)}$ single-digit multiplications. This is roughly $n^{1.58}$ time complexity, meaning it was the first algorithm to beat the traditional method of multiplication, which operates in $n^2$ time, in [[Asymptotic Analysis]].

@@ -1,0 +1,1 @@
+Following from all previous facts and logical statements, able to be supported.

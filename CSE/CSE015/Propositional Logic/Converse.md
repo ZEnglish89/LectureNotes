@@ -1,0 +1,1 @@
+A relationship in which which the elements are reversed from the original, for example "if q, p" is the converse of "if p, q".

@@ -1,0 +1,3 @@
+
+When a [[Charge]]d Object or Particle accelerates, it creates [[EM Disturbance]]s or [[Wave]]s that have energy. When the object is nonrelativistic, the total power radiated from the object(when it's conceptualized as a point charge) is found according to the below equation:$$p=\mu_0\cdot\frac{q^2a^2}{6\pi c}$$Borna wrote it as$$p = \frac{q^2a^2}{6\pi\epsilon_0c^3}$$ which I'm not sure what to do with. These are meaningfully different but have some things in common.
+NEVERMIND, Borna's equation is actually used to derive the one above, they're both valid. How odd.

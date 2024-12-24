@@ -1,0 +1,4 @@
+A type of [[Proposition]] which is self-evidently true, or is accepted as true before any logic is performed. All logic has axioms, because no knowledge can be created from nothing.
+For example, an extremely common Axiom is that we as humans can trust our senses, and we can trust that the world we see/hear/touch/etc is reality and not an illusion. We do not have any way to prove anything if we do not make that basic assumption, because otherwise all evidence which we have for other knowledge cannot be taken as truth.
+
+The word "axiom" specifically is typically used in a philosophical context. For [[Propositional Logic]] of a nature more closely associated with [[Discrete Mathematics]] and represented with [[Truth Table]]s, the term used is typically [[Atomic Variable]].

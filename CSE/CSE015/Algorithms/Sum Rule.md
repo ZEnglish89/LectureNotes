@@ -1,0 +1,3 @@
+If there are two distinct and mutually exclusive paths that can be taken to complete a procedure, and one path has n<sub>1</sub> ways to take it, and the other path has n<sub>2</sub> ways to take it, then the procedure can be completed in n<sub>1</sub> + n<sub>2</sub> ways.
+
+[[Product Rule]] uses the example of travelling. If travelling from San Diego to LA is your procedure, and the two paths are to fly or to rent a car, then which airline you take and which car you rent are the ways of taking each path. Therefore, there are (number of airlines you can take) + (number of cars you can rent) ways of travelling from SD to LA.

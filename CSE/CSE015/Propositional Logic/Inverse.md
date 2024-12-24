@@ -1,0 +1,2 @@
+The direct reversal of a relationship, for example "if not p, then not q" is the inverse of "if p, then q". This is where the "only if" statements come from in [[Implication]]. An Inverse relationship is the same as the original, but every [[Proposition]] has a [[Negation]] attached to it.
+These "if and only if" inverse relationships are [[Biconditional]].

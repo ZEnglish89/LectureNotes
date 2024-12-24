@@ -1,0 +1,1 @@
+One 3D equivalent of [[Polar]] coordinates(alongside [[Spherical]]), using r,$\theta$, and h(might be another letter actually I don't remember) for height

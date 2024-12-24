@@ -1,0 +1,1 @@
+See [[Axiom]]. The two terms are synonyms, Atomic Variable is just more typically used in the contexts which this course deals in.

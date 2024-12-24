@@ -1,0 +1,1 @@
+A sequence of steps, or a process, which can be followed in order to solve a predetermined and understood problem

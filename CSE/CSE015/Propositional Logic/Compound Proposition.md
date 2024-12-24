@@ -1,0 +1,1 @@
+More complicated, specific, and useable statements/pieces of information created by combining [[Proposition]]s or more simple compound propositions with [[Connective]]s.

@@ -1,0 +1,1 @@
+A field of [[Mechanics]] dealing with bodies whose shape and size are capable of deforming

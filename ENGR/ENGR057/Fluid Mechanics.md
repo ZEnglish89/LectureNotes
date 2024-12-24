@@ -1,0 +1,1 @@
+A type of [[Mechanics]] dealing with bodies which can flow, typically gases or liquids.

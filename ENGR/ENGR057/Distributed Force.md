@@ -1,0 +1,2 @@
+A force which is spread out and applied over an area, rather than to a single point in space.
+In reality, all forces are Distributed, but those which are Distributed over an especially small area can be idealized as [[Concentrated Force]]s.

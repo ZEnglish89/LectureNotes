@@ -1,0 +1,1 @@
+Sets of instructions/steps which receive an input and deposit an output. Similar in concept to functions in both mathematics and in programming, they are written similarly to the latter
